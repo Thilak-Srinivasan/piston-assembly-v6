@@ -1,6 +1,6 @@
 # Piston Assembly of a V6 Engine
 
-> **Manufacturing Processes** | ME F214 \
+> **Manufacturing Processes | ME F214** \
 > Thilak S · Under Prof. Radha Raman Mishra \
 > Department of Mechanical Engineering, BITS Pilani
 
