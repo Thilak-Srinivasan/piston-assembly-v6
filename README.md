@@ -1,7 +1,6 @@
 # Piston Assembly of a V6 Engine
 
 > **Manufacturing Project | ME F214 | BITS Pilani**  
-> Section P2 · Group 3 · Group Leader: Kaartik R Pai  
 > Department of Mechanical Engineering, BITS Pilani, Pilani Campus
 
 Design and physical manufacture of all components of a V6 piston assembly — piston head, connecting rod, rod cap, and wrist pin — from aluminium alloy billets using **CNC and manual machining operations**, followed by full assembly and inspection.
@@ -20,23 +19,6 @@ The piston assembly of a V6 engine is a critical sub-system responsible for conv
 CAD models were designed in **SolidWorks** and manufacturing was executed across the BITS Pilani workshop facilities using a combination of **CNC Lathe**, **CNC Mill**, **Manual Lathe**, and **Manual Milling** operations. The project follows a structured 4-phase work plan across 12 weeks covering material preparation, manual machining, CNC precision machining, and final assembly with dimensional inspection.
 
 **Keywords:** Piston assembly · V6 engine · CNC machining · Manual lathe · Aluminium alloy · SolidWorks · Manufacturing process planning
-
----
-
-## Team
-
-| Role | Member |
-|------|--------|
-| **Group Leader** | Kaartik R Pai |
-| Member | Ayush Sharma |
-| Member | Rhythm Garg |
-| Member | Rudraksh Singhal |
-| Member | Thilak S |
-| Member | C S Srivibhav |
-| Member | Aditya Raj |
-| Member | Raghav Goyal |
-| Member | Shreyank Maheshwari |
-| Member | Uditi Gupta |
 
 ---
 
