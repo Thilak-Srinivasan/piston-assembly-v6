@@ -1,6 +1,7 @@
 # Piston Assembly of a V6 Engine
 
-> **Manufacturing Project | ME F214 | BITS Pilani**  
+> **Manufacturing Project | ME F214 | BITS Pilani**
+> Thilak S · Under Prof. Radha Raman Mishra \
 > Department of Mechanical Engineering, BITS Pilani, Pilani Campus
 
 Design and physical manufacture of all components of a V6 piston assembly — piston head, connecting rod, rod cap, and wrist pin — from aluminium alloy billets using **CNC and manual machining operations**, followed by full assembly and inspection.
@@ -225,4 +226,5 @@ piston-assembly-v6/
 ---
 
 **Course:** ME F214 — Manufacturing Processes  
-**Institution:** Department of Mechanical Engineering, BITS Pilani, Pilani Campus  
+**Supervisor:** Dr. Radha Raman Mishra | Assistant Professor | Department of Mechanical Engineering, BITS Pilani \
+**Period:** January–April 2025 \
