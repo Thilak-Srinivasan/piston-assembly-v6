@@ -1,6 +1,6 @@
 # Piston Assembly of a V6 Engine
 
-> **Manufacturing Project | ME F214 | BITS Pilani**
+> **Manufacturing Project | ME F214 | BITS Pilani** \
 > Thilak S · Under Prof. Radha Raman Mishra \
 > Department of Mechanical Engineering, BITS Pilani, Pilani Campus
 
