@@ -26,27 +26,36 @@ CAD models were designed in **SolidWorks** and manufacturing was executed across
 
 All components were designed in SolidWorks prior to manufacturing. The assembly was validated across four standard orthographic views and one isometric view.
 
-![Fig 1 — Isometric view of the complete V6 piston assembly](figures/isometric_view.png)
-
-**Figure 1.** Isometric view of the complete piston assembly showing the piston head, connecting rod, rod cap, and wrist pin in assembled configuration. The crown grooves, skirt geometry, and big-end bore are clearly visible. Modelled in SolidWorks.
-
----
-
-![Fig 2 — Front view of the V6 piston assembly](figures/front_view.png)
-
-**Figure 2.** Front view of the piston assembly showing the wrist pin bore on the underside of the piston head, the full length of the connecting rod, and the big-end rod cap. This view was used to verify rod length and bore alignment dimensions.
-
----
-
-![Fig 3 — Side view of the V6 piston assembly](figures/side_view.png)
-
-**Figure 3.** Side view of the piston assembly confirming the connecting rod cross-section profile, the piston skirt length, and the rod cap split-line geometry. This view was critical for validating the manual milling stock removal plan for the connecting rod.
-
----
-
-![Fig 4 — Top view of the piston head](figures/top_view.png)
-
-**Figure 4.** Top view of the piston head showing the circular crown surface and the concentric ring groove geometry machined by CNC lathe. This view was used to set the turning toolpath for crown facing and groove cutting operations.
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="figures/isometric_view.png" alt="Isometric View" width="100%"/>
+      <br/>
+      <b>Figure 1 — Isometric View</b><br/>
+      Complete piston assembly showing the piston head, connecting rod, rod cap, and wrist pin. Crown grooves, skirt geometry, and big-end bore are clearly visible.
+    </td>
+    <td align="center" width="50%">
+      <img src="figures/front_view.png" alt="Front View" width="100%"/>
+      <br/>
+      <b>Figure 2 — Front View</b><br/>
+      Wrist pin bore on the underside of the piston head, full connecting rod length, and big-end rod cap. Used to verify rod length and bore alignment dimensions.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="figures/side_view.png" alt="Side View" width="100%"/>
+      <br/>
+      <b>Figure 3 — Side View</b><br/>
+      Connecting rod cross-section profile, piston skirt length, and rod cap split-line geometry. Critical for validating the manual milling stock removal plan.
+    </td>
+    <td align="center" width="50%">
+      <img src="figures/top_view.png" alt="Top View" width="100%"/>
+      <br/>
+      <b>Figure 4 — Top View</b><br/>
+      Circular crown surface and concentric ring groove geometry of the piston head. Used to set the CNC turning toolpath for crown facing and groove cutting.
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -216,6 +225,4 @@ piston-assembly-v6/
 ---
 
 **Course:** ME F214 — Manufacturing Processes  
-**Section / Group:** P2 / G3  
 **Institution:** Department of Mechanical Engineering, BITS Pilani, Pilani Campus  
-**Group Leader:** Kaartik R Pai | **Members:** Ayush Sharma · Rhythm Garg · Rudraksh Singhal · Thilak S · C S Srivibhav · Aditya Raj · Raghav Goyal · Shreyank Maheshwari · Uditi Gupta
