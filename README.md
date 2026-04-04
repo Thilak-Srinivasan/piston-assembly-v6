@@ -211,15 +211,11 @@ The piston assembly manufactured in this project is representative of those used
 
 ```
 piston-assembly-v6/
-├── cad/
-│   └── piston_assembly.SLDASM          # SolidWorks assembly file
 ├── figures/
 │   ├── isometric_view.png              # Fig 1 — Isometric view of full assembly
 │   ├── front_view.png                  # Fig 2 — Front view showing rod and cap
 │   ├── side_view.png                   # Fig 3 — Side view showing rod cross-section
 │   └── top_view.png                    # Fig 4 — Top view of piston head crown
-├── report/
-│   └── Manu_pro_project.docx           # Full project report with BOM and process plan
 └── README.md
 ```
 
